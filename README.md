@@ -1,5 +1,5 @@
 # DFK-monitoring
-Monitoring tools for defi kingdoms, a cross-chain play-to-earn game built on a strong DeFi protocol with plans to become a fully-fledged MMORPG in later phases of the Roadmap
+Monitoring tools for defi kingdoms, built with python and graphql 
 
 <br/>
 
