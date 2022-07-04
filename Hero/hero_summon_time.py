@@ -8,7 +8,7 @@ import pandas as pd
 ########## Configuration String ##########
 
 GRAPHQL_URL = "https://defi-kingdoms-community-api-gateway-co06z8vi.uc.gateway.dev/graphql"
-HERO_ID = [211611,230177,194969,1759,1353,700]
+HERO_ID = [1759,1353,700]
 
 ##########################################
 
