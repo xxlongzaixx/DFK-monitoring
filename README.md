@@ -16,4 +16,4 @@ If you do not have python installed in your device, you can use [Replit](https:/
 
 
 ### Hero Rental Data
-- [getRentalHistoryByHeroID.py](getRentalHistoryByHeroID.py)
+- [Hero/hero_rental_history.py](Hero/hero_rental_history.py)
