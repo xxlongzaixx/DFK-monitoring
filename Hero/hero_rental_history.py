@@ -56,7 +56,10 @@ for item in result['assistingAuctions']:
         status = u'\u2713'
     else:
         status = ""
-    duration = item['endedAt'] - item['startedAt']
 
-    d = datetime.datetime.fromtimestamp(int(item['endedAt']))
-    print(d.strftime("%d-%b-%y  %H: %M"), " Price:" , item['startingPrice'][:-18], status, item['seller']['id'][-4:] )
+    d = 'Open'
+    if item['endedAt'] != None:
+        d = datetime.datetime.fromtimestamp(int(item['endedAt'])).strftime("%d-%b-%y  %H: %M")
+    #duration = item['endedAt'] - item['startedAt']
+
+    print(d, " Price:" , item['startingPrice'][:-18], status, item['seller']['id'][-4:] )
