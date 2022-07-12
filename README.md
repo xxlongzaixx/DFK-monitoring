@@ -1,5 +1,5 @@
 # DFK-monitoring
-Monitoring tools for defi kingdoms, built with python and graphql 
+Monitoring and helper tools for defi kingdoms, built with python and graphql 
 
 <br/>
 
@@ -15,5 +15,7 @@ If you do not have python installed in your device, you can use [Replit](https:/
 <img width="227" alt="sample output" src="https://user-images.githubusercontent.com/106563476/174481120-bd0ec562-39bb-4ef8-b61f-ca7be9a18681.png">
 
 
-### Hero Rental Data
-- [Hero/hero_rental_history.py](Hero/hero_rental_history.py)
+### Hero
+- Rental history : [hero_rental_history.py](Hero/hero_rental_history.py)
+- Summon time : [hero_summon_time.py](Hero/hero_summon_time.py)
+- Bulk bridging : [hero_bridge_to_CV.py](Hero/hero_bridge_to_CV.py)
