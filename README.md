@@ -1,5 +1,10 @@
+
+
+
 # DFK-monitoring
 Monitoring and helper tools for defi kingdoms, built with python and graphql 
+
+***The current repository has been merged to https://github.com/xxlongzaixx/dfk**
 
 <br/>
 
